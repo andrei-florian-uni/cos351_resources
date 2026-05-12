@@ -2,4 +2,4 @@
 
 This repository contains code resources used throughout the final project.
 
-*Note that ```CLASS_\*``` denotes code files used for the multimodal LLM classification component of the project*
+*Note that ```CLASS_*``` denotes code files used for the multimodal LLM classification component of the project and ```ORIENT_*``` denotes files used for the orientation-aware rendering workflow.*
